@@ -1,5 +1,5 @@
 # RegEx-BrainF-Interpreter
-A Brainfuck interpreter in RegEx only (using Find/Replace).
+A Brainfuck interpreter in RegEx only (using Find/Replace). This demonstrates, that RegEx in combination with Find/Replace is Turing complete.
 # Usage
 Use any Editor that can find/replace with RegEx Syntax. I tested this on Notepad++, but since I only used Perl RegEx Syntax, it should also work with other applications.
 Create a new file and add the Brainflakes source code on the first line. It must contain a sequence of only the 8 coding BF characters, all on the first and only line:
