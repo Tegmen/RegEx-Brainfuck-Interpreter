@@ -1,4 +1,4 @@
-# RegEx-BrainF-Interpreter
+# RegEx-Brainfuck-Interpreter
 A Brainfuck interpreter in RegEx only (using Find/Replace). This demonstrates, that RegEx in combination with Find/Replace is Turing complete.
 # Usage
 Use any Editor that can find/replace with RegEx Syntax. I tested this on Notepad++, but since I only used Perl RegEx Syntax, it should also work with other applications.
